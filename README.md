@@ -1,6 +1,6 @@
 # Kibana With Logtrail Plugin
 
-This is an Automated Image Docker Image extending the official Kibana with [Logtrail][1].
+This is an Automated Docker Image extending the official Kibana with [Logtrail][1].
 
 **Version**
 - Kibana 6.2.2
